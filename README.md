@@ -28,3 +28,17 @@ Input:
 Output: 
 
 •	The matrix C
+
+
+
+![alt-link](https://raw.githubusercontent.com/jelenans/WCF_WPF_parallel-programming/master/New%20Picture%20(4).png)
+
+
+![alt-link](https://raw.githubusercontent.com/jelenans/WCF_WPF_parallel-programming/master/New%20Picture%20(5).png)
+
+
+![alt-link](https://raw.githubusercontent.com/jelenans/WCF_WPF_parallel-programming/master/New%20Picture%20(7).png)
+
+
+![alt-link](https://raw.githubusercontent.com/jelenans/WCF_WPF_parallel-programming/master/New%20Picture%20(8).png)
+
